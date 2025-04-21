@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-#include "socket.cpp"
+#include "include/socket.hpp"
 
 int main() {
   try {
