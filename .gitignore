@@ -5,6 +5,7 @@ debug/
 release/
 bin/
 obj/
+.cache
 
 # Prerequisites
 *.d

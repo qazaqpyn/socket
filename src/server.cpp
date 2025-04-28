@@ -41,7 +41,7 @@ int main() {
     }
 
     // create a socket for accepted connection
-    Socket clientSocket(std::move(cliendFd));
+    Socket clientSocket(cliendFd);
 
     std::cout << "Client connected\n";
 
